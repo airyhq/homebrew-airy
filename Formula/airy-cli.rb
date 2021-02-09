@@ -1,4 +1,4 @@
-class Airycli < Formula
+class AiryCli < Formula
   desc "helps create, manage, and test an Airy Core instance"
   homepage "https://airy.co"
   url "https://airy-core-binaries.s3.amazonaws.com/0.8.0/darwin/amd64/airy"
