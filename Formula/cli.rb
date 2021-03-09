@@ -1,8 +1,8 @@
 class Cli < Formula
   desc "Helps create, manage, and test an Airy Core instance"
   homepage "https://airy.co"
-  url "https://airy-core-binaries.s3.amazonaws.com/0.11.0/darwin/amd64/airy"
-  sha256 "d3a7ec85d22a69fec3441e3885e883637f16cdf4718eafc837ced1b8aec5e056"
+  url "https://airy-core-binaries.s3.amazonaws.com/0.12.0/darwin/amd64/airy"
+  sha256 "8de25e744f505589d1864effdecb8c2f99bfe5327a4311f9385867f5c92bf230"
   license "Apache-2.0"
 
   def install
